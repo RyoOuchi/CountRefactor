@@ -1,0 +1,2 @@
+教科書：ContentView
+オリジナル：OriginalCountGameView
